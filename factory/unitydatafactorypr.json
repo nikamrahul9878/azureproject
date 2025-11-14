@@ -1,0 +1,9 @@
+{
+	"name": "unitydatafactorypr",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4734899b-2a10-4b43-a835-0bd3f8d8bfc0",
+		"tenantId": "754c162e-91bf-4159-9558-8ef3eaff9514"
+	}
+}
