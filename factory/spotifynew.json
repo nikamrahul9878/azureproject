@@ -1,0 +1,9 @@
+{
+	"name": "spotifynew",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "46424a09-809c-46e8-b24b-7212dc695abc",
+		"tenantId": "754c162e-91bf-4159-9558-8ef3eaff9514"
+	}
+}
